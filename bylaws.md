@@ -1,5 +1,5 @@
 # Bylaws of the Internet Society Japan Chapter
-18th December 2015
+5th September 2013
 
 ## Article I. - Name
 1. This organization shall be called the Internet Society Japan Chapter (hereafter “Chapter”).
@@ -15,7 +15,8 @@
 
 3.	The Chapter will serve persons and organizations that live or work in Japan.
 
-4.	The Chapter is chartered by the Internet Society. These bylaws neither supersede nor abrogate any of the Bylaws of the Internet Society that regulate chapter affairs.
+4.	The Chapter is chartered by the Internet Society. These bylaws neither supersede nor abrogate
+any of the Bylaws of the Internet Society that regulate chapter affairs.
 
 ## Article III. - Membership
 1.	All members of the Chapter shall also be members of the Internet Society. Membership is not necessary, however, for participation in activities of the society or its chapters.
@@ -29,42 +30,40 @@
 
 2.	The officers shall be active members of the Chapter.
 
-3.	Elections of officers shall be held at the Annual General Meeting. Officers elected shall take office on the first day of the next fiscal year and serve for two years. Elections of officers shall be held to fill open seats and all officers will serve a term of 2 years.
+3.	Elections of officers shall be held at the Annual General Meeting. Officers elected shall take office on the first day of the next fiscal year and serve for two years. In the election to be held at the 2013 Annual General Meeting, five (5) officers will be elected, of which top three (3) officers based on the vote counts will serve a term of two (2) years, and the other two (2) will serve for 1 year term. Future elections will be held to fill open seats and all officers after will serve a term of 2 years.
 
 4.	All officers shall be elected in accordance with the procedures set forth by a resolution of the Executive Council.
 
 ## Article V. - Duties of Officers
-1.	The Chair is the principal officer and is responsible for leading the Chapter and managing its activities in accordance with the policies and procedures of the Internet Society and these bylaws. The Chair shall preside at all meetings of the Chapter and of its Executive Council. With the advice of the Chapter's Executive Council, the Chair shall appoint all members of committees of the Chapter and all Committee chairpersons.
+1.	The Chair is the principal officer and is responsible for leading the Chapter and managing its activities in accordance with the policies and procedures of the Internet Society and these bylaws. The Chair shall preside at all meetings of the Chapter and of its Executive Council. With the advice of the Chapter's Executive Council, the Chair shall appoint all members of committees of the Chapter and all Committee chairmen.
 
 2.	The Vice Chair shall preside at meetings in the absence of the Chair.
 
 3.	The Secretary shall keep the minutes of all Chapter and Executive Council meetings. Other duties of the Secretary include:
     1.	Preparation of the Annual Chapter Report for presentation to the Chapter at the Annual General Meeting.
-    2.	Preparation of Chapter's Activity Report and submission of this report to the Internet Society headquarters.
-    3.	Notification to the Internet Society headquarters of any changes in the elected officers of the Chapter.
-    4.	Submission of any proposed amendment of these Bylaws to the Internet Society headquarters for approval.
+    2.	Preparation of Chapter's Activity Report and submission of this report to the Internet Society Headquarters.
+    3.	Notification to the Internet Society Headquarters of any changes in the elected officers of the Chapter.
+    4.	Submission of any proposed amendment of these Bylaws to the Internet Society Headquarters for approval.
 
 4.	The Treasurer shall collect dues, pay all bills, and maintain the Chapter's financial records. Duties of the Treasurer shall also include:
   1.	Preparation of the Chapter's Annual Financial Report for presentation to the Chapter at the Annual General Meeting.
-  2.	Completion and submission of the Annual Financial Report to the Internet Society headquarters.
-
-5.	The Program Chair shall lead the program committee.
+  2.	Completion and submission of the Annual Financial Report to the Internet Society Headquarters.
 
 ## Article VI. - Executive Council
-1.	The Executive Council shall consist of the present Chapter officers, the chairperson of the Chapter's standing committees and members appointed by the Chair with the advice of the Chapter's Executive Council.
+1.	The Executive Council shall consist of the present Chapter officers, the chairmen of the Chapter's standing committees and members appointed by the Chair with the advice of the Chapter's Executive Council.
 
 2.	The term of the members of the Executive Council shall coincide with the terms of the officers. They shall take office on the first day of the fiscal year and serve for one year.
 
 3.	The Executive Council has the following powers:
-    1.	Authorize the Chapter’s membership applications
+    1.	Authorize Chapter’s membership applications
     2.	Represent the Chapter to external parties
     3.	Plan and conduct Chapter activities
-    4.	Make decisions on expenditures required for the Chapter’s activities
+    4.	Make decisions on expenditures required for Chapter’s activities
     5.	Make any other decisions required to maintain the Chapter and its activities
 
 ## Article VII. - Standing Committees
-1.	The Standing Committee of the Chapter shall be the Program Committee.
-2.	The Program Committee shall plan and make arrangements for the programs of the Chapter's meetings in accordance with the membership's interests and the aims of the Chapter as set forth in Article II.
+1.	The Standing Committee of the Chapter shall be the Program Committee
+2.	The Program Committee shall plan and make arrangements for the technical programs of the Chapter's meetings in accordance with the membership's interests and the aims of the Chapter as set forth in Article II.
 
 ## Article VIII. - Temporary Committees
 1. The following two (2) Temporary Committees shall be established:
@@ -91,9 +90,9 @@
 ## Article XII. - Amendment and Voting Procedures in General Meetings
 1.	Voting rights are limited to members who live in Japan.
 
-2.	Amendments to the bylaws shall be authorized at a general meeting through voting.
+2.	Amendments to the Bylaws shall be authorized at a general meeting through voting.
 
-3.	All proposed changes to these Chapter bylaws shall be approved by the Internet Society before being presented to the Chapter membership for a vote.
+3.	All proposed changes to these Chapter Bylaws shall have been approved by the Internet Society before being presented to the Chapter membership for a vote.
 
 4.	No official business shall be conducted unless a quorum of the Chapter is present.
 
@@ -103,10 +102,7 @@
 
 7.	Officers will be elected by a plurality of votes cast.
 
-8.	Two scrutineers must be chosen from valid voters except officer candidates by the members presenting at a general meeting. The scrutineer is responsible for overseeing the actual vote-counting work and overseeing an announcement of the voting result.
-9.	Amendments to the bylaws or elections of officers may be taken by electronic vote in parallel with voting at a general meeting. A Vote Administrator ("VA") shall be chosen from uncontested officers by a resolution of the Executive Council. The VA is responsible for posting a call for a vote to the member email list, along with a time limit, not less than 7 days, during which electronic votes will be accepted. Any vote after the time limit has passed shall be treated as an invalid ballot. The VA is responsible for tracking the vote and creating a report of the electronic voting result after the time limit has passed. Any electronic vote that is deemed to pass by the VA has no binding force until it is confirmed by scrutineers with written signatures. Voting rights can be exercised either by an electronic vote or an on-site vote. Actual electronic voting procedure shall be determined by a resolution of the Executive Council.
-
 ## Article XIII. - Dissolution of the Chapter
 1.	Dissolution of the Chapter by consent of the members shall consist of unanimous agreement of all its officers together with a majority vote at a meeting which has been publicized in advance to all members of the Chapter for the purpose of taking this vote.
 
-2.	Should the Chapter be dissolved, its assets shall be transferred to the Internet Society to be held in escrow and supervised by the Internet Society headquarters.
+2.	Should the Chapter be dissolved, its assets shall be transferred to the Internet Society to be held in escrow and supervised by the Internet Society Headquarters.
