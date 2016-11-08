@@ -1,5 +1,5 @@
 # Bylaws of the Internet Society Japan Chapter
-5th September 2013
+12th September 2016
 
 ## Article I. - Name
 1. This organization shall be called the Internet Society Japan Chapter (hereafter “Chapter”).
