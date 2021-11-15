@@ -19,33 +19,33 @@ xx December 2021
 
 ## Article III. - Membership
 1.	Applicants for membership must meet the following qualifications:
-  1. Any member of the Chapter must be also a member of the Internet Society. All members of the Chapter shall also be members of the Internet Society. Membership is not necessary, however, for participation in activities of the society or its chapters.
-  1. Applicants represents and warrants that is not a person who has fallen and shall not fall under any of the followings:
-    1. the Anti Social Forces; (“Anti Social Forces” means; 1. an organized crime group, a member of an organized crime group, a related company or association of an organized crime group, and any other equivalent person of above; or 2. a person who themselves or through the use of third parties conducts a demand with violence, an unreasonable demand beyond its legal entitlement, use of intimidating words or actions, damages the credit or obstructs the business of the other party by spreading false rumors or by the use of fraudulent, or any other equivalent actions of above.)
-    1. a person having such relationship with the Anti Social Forces that shows the Anti Social Forces' substantial involvement in the person's management;
-    1. a person having such relationship with the Anti Social Forces that shows reliance on the Anti Social Forces;
-    1. a person who cooperate and is involved with the maintenance or operation of any Anti social Forces by providing funding to any Anti Social Forces or any similar act; or
-    1. a person who is engaged in a socially condemnable relationship with the Anti Social Forces.
+    1. Any member of the Chapter must be also a member of the Internet Society. All members of the Chapter shall also be members of the Internet Society. Membership is not necessary, however, for participation in activities of the society or its chapters.
+    1. Applicants represents and warrants that is not a person who has fallen and shall not fall under any of the followings:
+        1. the Anti Social Forces; (“Anti Social Forces” means; 1. an organized crime group, a member of an organized crime group, a related company or association of an organized crime group, and any other equivalent person of above; or 2. a person who themselves or through the use of third parties conducts a demand with violence, an unreasonable demand beyond its legal entitlement, use of intimidating words or actions, damages the credit or obstructs the business of the other party by spreading false rumors or by the use of fraudulent, or any other equivalent actions of above.)
+        1. a person having such relationship with the Anti Social Forces that shows the Anti Social Forces' substantial involvement in the person's management;
+        1. a person having such relationship with the Anti Social Forces that shows reliance on the Anti Social Forces;
+        1. a person who cooperate and is involved with the maintenance or operation of any Anti social Forces by providing funding to any Anti Social Forces or any similar act; or
+        1. a person who is engaged in a socially condemnable relationship with the Anti Social Forces.
 1. All members of the Chapter must read, understand and abide by the Internet Society defined Code of Conduct.
 1. Membership in the Chapter shall be open to all Internet Society members in the locality served by the Chapter upon request and payment of any local dues, as determined by the Executive Council.
 1. Applications for membership are submitted to the Executive Council (of the Chapter). Applicants must use an Internet Society defined process on the Internet Society’s website, which ensures that the Executive Council receives the application.
 1. The Executive Council decides on the application normally within four weeks after its submission.
 1. In case the Executive Council rejects the application, the applicant may appeal to the General Meeting.
-  1. Appeals are submitted to the Executive Council. 
-  1. The Executive Council must ensure that the applicant is invited to the next General Meeting.
-  1. The Executive Council informs the members of the Chapter about the reasons for the rejection of the application before the General Meeting.
-  1. Decisions for the appeal are carried out by ballot with majorities.
-  1. If the appeal is granted at the General Meeting, the application of membership is accepted.
+    1. Appeals are submitted to the Executive Council. 
+    1. The Executive Council must ensure that the applicant is invited to the next General Meeting.
+    1. The Executive Council informs the members of the Chapter about the reasons for the rejection of the application before the General Meeting.
+    1. Decisions for the appeal are carried out by ballot with majorities.
+    1. If the appeal is granted at the General Meeting, the application of membership is accepted.
 1. Membership may be terminated by:
-  1. Death
-  1. Exclusion
+    1. Death
+    1. Exclusion
 1. Any member may request the exclusion of another member.
-  1. Requests for exclusion must be submitted in writing (including electronic method) to the Executive Council along with the reasons for exclusion.
-  1. Exclusions are only permitted for important reasons including violating code of conduct.
-  1. The Executive Council may limit the membership of the member whose exclusion has been requested, until the next General Meeting.
-  1. The Executive Council ensures the request for exclusion be discussed and voted on during the next General Meeting.
-  1. The Executive Council must personally and timely inform the member whose exclusion has been requested, given the latest contact information provided by the member is valid. Otherwise the Executive Council must only inform the member personally, if valid contact information of the member can be obtained with reasonable effort.
-  1. Decisions for exclusion are carried out by ballot with majorities. 
+    1. Requests for exclusion must be submitted in writing (including electronic method) to the Executive Council along with the reasons for exclusion.
+    1. Exclusions are only permitted for important reasons including violating code of conduct.
+    1. The Executive Council may limit the membership of the member whose exclusion has been requested, until the next General Meeting.
+    1. The Executive Council ensures the request for exclusion be discussed and voted on during the next General Meeting.
+    1. The Executive Council must personally and timely inform the member whose exclusion has been requested, given the latest contact information provided by the member is valid. Otherwise the Executive Council must only inform the member personally, if valid contact information of the member can be obtained with reasonable effort.
+    1. Decisions for exclusion are carried out by ballot with majorities. 
 
 
 ## Article IV. - Officers
