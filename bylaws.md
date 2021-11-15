@@ -1,5 +1,5 @@
 # Bylaws of the Internet Society Japan Chapter
-13th September 2019
+xx December 2021
 
 ## Article I. - Name
 1. This organization shall be called the Internet Society Japan Chapter (hereafter "Chapter").
@@ -18,11 +18,35 @@
 4.	The Chapter is chartered by the Internet Society. These bylaws neither supersede nor abrogate any of the Bylaws of the Internet Society that regulate chapter affairs.
 
 ## Article III. - Membership
-1.	All members of the Chapter shall also be members of the Internet Society. Membership is not necessary, however, for participation in activities of the society or its chapters.
+1.	Applicants for membership must meet the following qualifications:
+  1. Any member of the Chapter must be also a member of the Internet Society. All members of the Chapter shall also be members of the Internet Society. Membership is not necessary, however, for participation in activities of the society or its chapters.
+  1. Applicants represents and warrants that is not a person who has fallen and shall not fall under any of the followings:
+    1. the Anti Social Forces; (“Anti Social Forces” means; 1. an organized crime group, a member of an organized crime group, a related company or association of an organized crime group, and any other equivalent person of above; or 2. a person who themselves or through the use of third parties conducts a demand with violence, an unreasonable demand beyond its legal entitlement, use of intimidating words or actions, damages the credit or obstructs the business of the other party by spreading false rumors or by the use of fraudulent, or any other equivalent actions of above.)
+    1. a person having such relationship with the Anti Social Forces that shows the Anti Social Forces' substantial involvement in the person's management;
+    1. a person having such relationship with the Anti Social Forces that shows reliance on the Anti Social Forces;
+    1. a person who cooperate and is involved with the maintenance or operation of any Anti social Forces by providing funding to any Anti Social Forces or any similar act; or
+    1. a person who is engaged in a socially condemnable relationship with the Anti Social Forces.
+1. All members of the Chapter must read, understand and abide by the Internet Society defined Code of Conduct.
+1. Membership in the Chapter shall be open to all Internet Society members in the locality served by the Chapter upon request and payment of any local dues, as determined by the Executive Council.
+1. Applications for membership are submitted to the Executive Council (of the Chapter). Applicants must use an Internet Society defined process on the Internet Society’s website, which ensures that the Executive Council receives the application.
+1. The Executive Council decides on the application normally within four weeks after its submission.
+1. In case the Executive Council rejects the application, the applicant may appeal to the General Meeting.
+  1. Appeals are submitted to the Executive Council. 
+  1. The Executive Council must ensure that the applicant is invited to the next General Meeting.
+  1. The Executive Council informs the members of the Chapter about the reasons for the rejection of the application before the General Meeting.
+  1. Decisions for the appeal are carried out by ballot with majorities.
+  1. If the appeal is granted at the General Meeting, the application of membership is accepted.
+1. Membership may be terminated by:
+  1. Death
+  1. Exclusion
+1. Any member may request the exclusion of another member.
+  1. Requests for exclusion must be submitted in writing (including electronic method) to the Executive Council along with the reasons for exclusion.
+  1. Exclusions are only permitted for important reasons including violating code of conduct.
+  1. The Executive Council may limit the membership of the member whose exclusion has been requested, until the next General Meeting.
+  1. The Executive Council ensures the request for exclusion be discussed and voted on during the next General Meeting.
+  1. The Executive Council must personally and timely inform the member whose exclusion has been requested, given the latest contact information provided by the member is valid. Otherwise the Executive Council must only inform the member personally, if valid contact information of the member can be obtained with reasonable effort.
+  1. Decisions for exclusion are carried out by ballot with majorities. 
 
-2.	All individuals and organizations falling within the defined scope of the Chapter shall be eligible for membership without discrimination.
-
-3.	Membership in the Chapter shall be open to all Internet Society members in the locality served by the Chapter upon request and payment of any local dues, as determined by the Executive Council.
 
 ## Article IV. - Officers
 1.	The officers of the Chapter shall be: Chair, Vice Chair, Program Chair, Secretary, and Treasurer.
@@ -82,9 +106,11 @@
 ## Article IX. - General Meetings
 1.	The Annual General Meeting shall be held once a year. Additional general meetings may be held.
 
-2.	The Annual General Meeting shall be the last meeting of the fiscal year. At this meeting, the Secretary and the Treasurer each shall present a report. In addition, the election of officers shall be held. The Chapter shall hold meetings only in places that are open and accessible to all Chapter members.
+1. The official language of the General Meeting shall be Japanese.
 
-3.	Notices of the place and time of all meetings shall be distributed to all Chapter members at least one week prior to any meeting, by Internet mail or by oral, telegraphic, or other written notice, duly served on or mailed.
+1.	The Annual General Meeting shall be the last meeting of the fiscal year. At this meeting, the Secretary and the Treasurer each shall present a report. In addition, the election of officers shall be held. The Chapter shall hold meetings only in places that are open and accessible to all Chapter members.
+
+1.	Notices of the place and time of all meetings shall be distributed to all Chapter members at least one week prior to any meeting, by Internet mail or by oral, telegraphic, or other written notice, duly served on or mailed.
 
 ## Article X. - Fiscal Year
 1. The fiscal year of the Chapter shall end on December 31st of each year.
@@ -109,9 +135,9 @@
 
 7.	Officers will be elected by a plurality of votes cast.
 
-8.	Two scrutineers must be chosen from valid voters except officer candidates by the members presenting at a general meeting. The scrutineer is responsible for overseeing the actual vote-counting work and overseeing an announcement of the voting result.
+8.	Two scrutineers must be chosen from valid voters except officer candidates by the members presenting(including electronic participation) at a general meeting. The scrutineer is responsible for overseeing the actual vote-counting work and overseeing an announcement of the voting result.
 
-9.	Amendments to the bylaws or elections of officers may be taken by electronic vote in parallel with voting at a general meeting. A Vote Administrator ("VA") shall be chosen from uncontested officers by a resolution of the Executive Council. The VA is responsible for posting a call for a vote to the member email list, along with a time limit, not less than 7 days, during which electronic votes will be accepted. Any vote after the time limit has passed shall be treated as an invalid ballot. The VA is responsible for tracking the vote and creating a report of the electronic voting result after the time limit has passed. Any electronic vote that is deemed to pass by the VA has no binding force until it is confirmed by scrutineers with written signatures. Voting rights can be exercised either by an electronic vote or an on-site vote. Actual electronic voting procedure shall be determined by a resolution of the Executive Council.
+9. Amendments to the bylaws, elections of officers or exclusion of the member may be taken by electronic vote in parallel with voting at a general meeting. A Vote Administrator ("VA") shall be chosen from uncontested officers by a resolution of the Executive Council. The VA is responsible for posting a call for a vote to the member email list, along with a time limit, not less than 7 days, during which electronic votes will be accepted. Any vote after the time limit has passed shall be treated as an invalid ballot. The VA is responsible for tracking the vote and creating a report of the electronic voting result after the time limit has passed. Any electronic vote that is deemed to pass by the VA has no binding force until it is confirmed by scrutineers with written or digital signatures. Voting rights can be exercised either by an electronic vote or an on-site vote. Actual electronic voting procedure shall be determined by a resolution of the Executive Council.
 
 ## Article XIII. - Dissolution of the Chapter
 1.	Dissolution of the Chapter by consent of the members shall consist of unanimous agreement of all its officers together with a majority vote at a meeting which has been publicized in advance to all members of the Chapter for the purpose of taking this vote.
